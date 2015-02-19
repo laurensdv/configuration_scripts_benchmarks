@@ -1,6 +1,6 @@
 {
-  "subnet": "subnet-8a349dd3",
-  "security_groups": ["sg-f7438893"],
+  "subnet": "subnet-b7c97fee",
+  "security_groups": ["sg-a93d98cd"],
   "ami": "ami-900273f8",
   "ami_benchmarker": "ami-ec493f84",
   "virtuoso": {
