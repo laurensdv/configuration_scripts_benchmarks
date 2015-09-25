@@ -4,10 +4,16 @@
   "ami": "ami-900273f8",
   "ami_benchmarker": "ami-ec493f84",
   "virtuoso": {
+    "enabled": true,
     "user": "dba",
     "pass": "dba",
     "config": "/home/ubuntu/progs/virtuoso-opensource-bin/var/lib/virtuoso/db/virtuoso.ini",
     "isql": "/home/ubuntu/progs/virtuoso-opensource-bin/bin/isql"
+  },
+  "ldf": {
+    "enabled": false,
+    "explore": false,
+    "summary": false
   },
   "endpoints": [
   {
